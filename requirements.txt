@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+motor
+pyrogram
+tgcrypto
+pydantic
+pydantic-settings
+redis
+loguru
+python-dotenv
