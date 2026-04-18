@@ -8,3 +8,4 @@ pydantic-settings
 redis
 loguru
 python-dotenv
+python-telegram-bot
